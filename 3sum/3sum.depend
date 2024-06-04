@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1693045446 source:d:\thirdyear\code\3sum\main.c
+	<stdio.h>
+	<stdlib.h>
+

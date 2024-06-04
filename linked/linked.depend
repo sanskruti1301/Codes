@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1690823980 source:d:\thirdyear\ai\linked\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1690824364 source:d:\thirdyear\code\linked\main.c
+	<stdio.h>
+	<stdlib.h>
+

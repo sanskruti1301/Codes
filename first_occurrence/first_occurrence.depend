@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1713201136 source:d:\thirdyear\code\first_occurrence\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

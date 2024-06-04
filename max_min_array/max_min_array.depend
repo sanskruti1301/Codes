@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1704733230 source:d:\thirdyear\ai\max_min_array\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1704733280 source:d:\thirdyear\code\max_min_array\main.c
+	<stdio.h>
+	<stdlib.h>
+

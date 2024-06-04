@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1696309786 source:d:\thirdyear\code\good_pair\main.c
+	<stdio.h>
+	<stdlib.h>
+

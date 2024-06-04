@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1693049218 source:d:\thirdyear\code\first_missing_positive\main.c
+	<stdio.h>
+	<stdlib.h>
+

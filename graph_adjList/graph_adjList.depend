@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1693975855 source:d:\thirdyear\code\graph_adjlist\main.c
+	<stdio.h>
+	<stdlib.h>
+
